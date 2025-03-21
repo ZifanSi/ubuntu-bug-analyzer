@@ -21,7 +21,7 @@ Ubuntu updates sometimes cause unexpected bugs and frustrations. Here’s what *
 - **User #4:** *"There are also some small bugs, such as the application list may freeze when closing the folder, and you need to close gnome-session (signal 10)."*
 - **User #5:** *"To be honest, if I still had Iso, I would have installed it back long ago."*
 
-These real-world frustrations show why a tool like Ubuntu Feature Tracker is needed.
+These real-world frustrations show why a tool like Ubuntu Bug Analyzer is needed.
 
 ## Features
 - **Compare features across Ubuntu versions** to see what changed
@@ -32,7 +32,7 @@ These real-world frustrations show why a tool like Ubuntu Feature Tracker is nee
 ## Getting Started
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/ubuntu-feature-tracker.git
+   git clone https://github.com/your-username/ubuntu-bug-analyzer.git
    ```
 2. Navigate to the project folder:
    ```sh
