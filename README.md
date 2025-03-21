@@ -1,4 +1,4 @@
-# Ubuntu Feature Tracker
+# Ubuntu Bug Analyzer
 
 ## Overview
 Ubuntu updates are supposed to improve the system, but sometimes they introduce new problems. Users often find that features they relied on suddenly stop working. Some even regret updating and wish they could go back to an older version.
@@ -44,7 +44,7 @@ These real-world frustrations show why a tool like Ubuntu Feature Tracker is nee
    ```
 4. Run the application:
    ```sh
-   npm start  # Start the development server
+   cd frontend npm start  # Start the development server
    ```
 
 ## Contributing
